@@ -29,17 +29,18 @@ function Slideshow() {
   const [index, setIndex] = useState(0);
 
   function handleNext() {
+    console.log("handleNext", index, Tales.length);
     setIndex((prevIndex) =>
       prevIndex + 1 >= Tales.length ? 0 : prevIndex + 1
     );
   }
 
   function handlePrev() {
+    console.log("handlePrev", index, Tales.length);
     setIndex((prevIndex) =>
       prevIndex - 1 < 0 ? Tales.length - 1 : prevIndex - 1
     );
   }
-
   return (
     <div className="max-w-screen mx-auto py-6 sm:px-6 lg:px-8">
       
@@ -67,7 +68,7 @@ function Slideshow() {
                         </h3>
                         <p className="text-sm md:text-base text-gray-50 mb-2 h-full py-10 md:px-28">
                           {Tales[index].summery}
-                          <div className="text-sm md:text-base text-gray-50 mt-6 h-full">
+                          <div className="text-sm md:text-base text-gray-50 mt-6">
                             <Link
                               to={`/StoryPage/${items.id}`}
                               className="text-sm md:text-base text-white bg-gray-700 px-4 py-2 rounded hover:bg-gray-600"
@@ -83,7 +84,9 @@ function Slideshow() {
               </div>
             </div>
           </div>
-          <div className="flex text-white justify-center mt-4">
+          
+        </div>
+        <div className="flex text-white justify-center z-30 mt-4">
             <button
               className="mr-2 bg-gray-500 py-1 px-3 rounded-full"
               onClick={handlePrev}
@@ -97,7 +100,6 @@ function Slideshow() {
               <GrCaretNext />
             </button>
           </div>
-        </div>
     </div>
   );
 }
