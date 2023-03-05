@@ -24,3 +24,11 @@ header {
   opacity: 0.5;
   backdrop-filter: blur(8px);
 }
+p{
+  font-family: Lato, "Lucida Grande", Tahoma, Sans-Serif;
+  color: blue;
+}
+#Story-Title{
+  font-family: cursive;
+
+}

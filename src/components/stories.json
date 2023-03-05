@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "The Shadows that Crept: Tales of Terror and Dread",
+    "author": "Mark Twain",
+    "cover": "tom_sawyer_cover.jpg",
+    "chapterCover": "/chapter1_cover.jpg",
+    "chapters": [
+      {
+        "title": "Chapter 1: Moving In",
+        "content": "As Emma walked into her new apartment, she couldn't help but feel a sense of excitement mixed with apprehension. This was her first apartment, and she was finally starting her new life on her own terms. The apartment was small, but it was perfect for her, and it had everything she needed. As she walked around the apartment, she noticed that the bedroom closet didn't have a light bulb. Emma sighed, thinking about how much work it was going to take to fix it. But for now, she decided to leave the closet door open until she could buy a new light bulb."
+      },
+      {
+        "title": "Chapter 2: The Closed Door",
+        "content": "That night, Emma went to bed early, exhausted from the move. She slept soundly until she was awakened by a strange sound. As she opened her eyes, she saw that the closet door was now closed. Emma sat up, puzzled. She had left it open before she went to bed. She shrugged it off, thinking it must have been the wind or a draft from the window. She got up, walked to the closet, and opened the door again before returning to bed. As she lay down, she couldn't shake the feeling that something was off, but she couldn't quite put her finger on what it was. Emma tried to go back to sleep, but the feeling of unease lingered."
+      },
+      {
+        "title": "Chapter 3: The Watching Eyes",
+        "content": "The next few nights were filled with strange occurrences. Emma would wake up in the middle of the night to find the closet door closed again. Each time, she would get up and open it again, but the sense of unease grew stronger each time. One night, Emma woke up to find the closet door closed, but this time it was different. She felt like someone, or something, was watching her from the other side of the door. The hair on the back of her neck stood up, and her heart started racing. Emma mustered up the courage to get up and open the closet door, but this time, she hesitated. She couldn't shake the feeling that something was on the other side, watching her. Emma closed the door again, feeling uneasy, and went back to bed, unable to sleep. She knew she had to do something about it before it drove her crazy."
+      },
+      {
+        "title": "Chapter 4: The Secret Room",
+        "content": "The next day, Emma decided to investigate the closet. She opened the door and looked inside, but she couldn't see anything unusual. She was about to close the door when she noticed that the back wall of the closet looked strange. She pushed on the wall, and to her surprise, it moved, revealing a small hidden room. Emma peered inside and saw that the room was empty, but there was a strange energy in the air. The room felt cold and stale, and she could feel a presence, even though no one was there. Emma couldn't shake off the feeling that something was off, and she knew that she had to find out more about the hidden room. She decided to research the history of the apartment building to see if she could find any clues."
+      },{
+        "title": "Chapter 5: The Horrifying Secret",
+        "content": "After doing some research, Emma discovered that her apartment building had a dark history. It had been the site of a horrific murder-suicide many years ago. The killer had barricaded himself and his family inside the apartment and had committed unspeakable acts of violence before taking his own life. Emma couldn't believe what she was reading. The more she read, the more she realized that the hidden room in her closet was where the killer had kept his victims. Emma felt sick to her stomach, realizing that she had been living in the same space where so much evil had occurred. As she was sitting on her bed, lost in thought, she suddenly heard a sound coming from the closet. Emma got up, and as she approached the closet, she saw the door slowly creaking open. She braced herself for what she might see and was horrified by what she found. Standing in front of her was a figure, a shadowy presence that had been haunting her all along. Emma knew she had to act fast before it was too late."
+        
+      },{
+        "title": "Chapter 6: The Confrontation",
+        "content": "Emma stood frozen, staring at the figure in front of her. She couldn't make out any features, but she knew it was not human. The energy in the room was palpable, and Emma could feel the fear creeping up inside her. The figure started moving towards her, and Emma knew she had to act fast. She remembered reading that the only way to get rid of a ghost was to confront it. Emma gathered her courage and spoke out loud, 'What do you want from me?' The figure stopped and turned towards her. Emma felt like she was being stared at, even though there were no visible eyes. Suddenly, she realized that the figure was not a ghost, but something far more sinister. The entity revealed its true identity, and Emma knew that she had to fight for her life. She had to make a choice that could mean the difference between life and death. Emma braced herself and fought with all her might, determined to survive the night."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "some",
+    "author": "Mark Twain",
+    "cover": "tom_sawyer_cover.jpg",
+    "chapters": [
+      {
+        "title": "Chapter 1: Tom Meets Aunt Polly",
+        "content": "Tom was... (text of the chapter)..."
+      },
+      {
+        "title": "Chapter 2: The Whitewashing",
+        "content": "Tom's task for the day was... (text of the chapter)..."
+      },
+      {
+        "title": "Chapter 3: Playing Hooky",
+        "content": "Tom decided to skip school and... (text of the chapter)..."
+        
+      }
+    ]
+  }
+]
