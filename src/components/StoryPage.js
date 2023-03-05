@@ -48,13 +48,13 @@ function StoryPage() {
                 key={i}
                 className="slideshow-slide"
                 style={{
-                  backgroundImage: `url(${story.chapterCover})`,
+                  backgroundImage: `url(${story.cover})`,
                   display: i === index ? "block" : "none",
                 }}
               >
                 <div
                   className="absolute inset-0 bg-cover bg-no-repeat bg-center"
-                  style={{ backgroundImage: `url(${story.chapterCover})` }}
+                  style={{ backgroundImage: `url(${story.cover})` }}
                 >
                   <div className="p-4 bg-black bg-opacity-50 absolute top-0 left-0 h-full px-8 py-10 md:py-20 flex-col items-center justify-center">
                     <div className="bg-gray-900 py-4 mt-16 md:mt-0 rounded-2xl md:bg-opacity-60 bg-opacity-10">

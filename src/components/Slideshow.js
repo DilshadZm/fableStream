@@ -11,17 +11,17 @@ const Tales = [
   },
   {
     id: 2,
-    image: "https://source.unsplash.com/random/800x600",
-    title: "Title 2",
+    image: "The-Silent-Witness.jpg",
+    title: "The Silent Witness: A Deadly Betrayal",
     summery:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Duis vestibulum metus ut ligula scelerisque, vel facilisis  purus viverra.",
+      "Detective Sarah Black investigates a series of gruesome murders and discovers that all the victims were connected by a secret they shared. As she gets closer to the truth, Sarah realizes that the killer is one step ahead of her and will stop at nothing to keep the secret safe. Sarah must find the silent witness to the murders, but time is running out, and the smallest mistake can be fatal. Will Sarah solve the case before becoming the killer's next victim?",
   },
   {
     id: 3,
-    image: "The-Shadows-that-Crept-Banner.jpg",
-    title: "Title 3",
+    image: "The-Price-of-Love.jpg",
+    title: "The Price of Love: A Thrilling Tale of Best Friends, Deception, and Deadly Consequences",
     summery:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Duis vestibulum metus ut ligula scelerisque, vel facilisis  purus viverra.",
+      "The story is about two best friends, Jack and Sarah. Jack encourages Sarah to pursue a relationship with a charming man named Tom, but soon becomes concerned when Tom starts to exhibit possessive and controlling behavior. Despite Jack's warnings, Sarah refuses to listen, putting her life in danger. Jack takes matters into his own hands, investigating Tom's past and putting his own life on the line to protect Sarah. In the end, Jack's determination saves Sarah's life, but he learns a valuable lesson about the limits of his ability to save someone from their own choices.",
   },
 ];
 
@@ -66,7 +66,7 @@ function Slideshow() {
                         <h3 className="text-lg md:text-2xl  font-medium text-gray-50 mb-2 md:px-20 w-full">
                           {Tales[index].title}
                         </h3>
-                        <p className="text-sm md:text-base text-gray-50 mb-2 h-full py-10 md:px-28">
+                        <p className="text-sm md:text-base text-gray-50 mb-2 py-10 md:px-28">
                           {Tales[index].summery}
                           <div className="text-sm md:text-base text-gray-50 mt-6">
                             <Link
