@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fableStream/static/css/main.a0b7dcc5.css",
+    "main.js": "/fableStream/static/js/main.a88b518e.js",
+    "static/js/787.08d554f9.chunk.js": "/fableStream/static/js/787.08d554f9.chunk.js",
+    "static/media/home-cover.jpg": "/fableStream/static/media/home-cover.6f3a4aa7d351a14e5c40.jpg",
+    "index.html": "/fableStream/index.html",
+    "main.a0b7dcc5.css.map": "/fableStream/static/css/main.a0b7dcc5.css.map",
+    "main.a88b518e.js.map": "/fableStream/static/js/main.a88b518e.js.map",
+    "787.08d554f9.chunk.js.map": "/fableStream/static/js/787.08d554f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0b7dcc5.css",
+    "static/js/main.a88b518e.js"
+  ]
+}
