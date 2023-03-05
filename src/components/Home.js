@@ -6,15 +6,6 @@ const images = [
   "https://source.unsplash.com/random/800x600",
 ];
 function HomePage() {
-  const [index, setIndex] = useState(0);
-
-  function handleNext() {
-    setIndex((index) => (index + 1 >= images.length ? 0 : index + 1));
-  }
-
-  function handlePrev() {
-    setIndex((index) => (index - 1 < 0 ? images.length - 1 : index - 1));
-  }
   return (
     <div className="bg-gray-100 max-w-screen">
       {/* Hero section */}
